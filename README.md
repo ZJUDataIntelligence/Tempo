@@ -12,4 +12,4 @@ To run the code
 `unzip data.zip`
 2. you may need to chage the dataset path defined in training.py(Corresponds to your *data* directory)
 3. cd to project root folder:
-`python training.py
+`python training.py`
