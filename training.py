@@ -26,7 +26,7 @@ def main():
 
     elif subtype_flag == 3:
         data_path = '/home/zh/codes/transformer_virus/data/processed/COV19/'
-        data_set = '/home/zh/codes/transformer_virus/data/processed/COV19'
+        data_set = '/home/zh/codes/transformer_virus/data/processed/COV19/triplet_cluster'
         # data_path = '/home/zh/codes/rnn_virus_source_code/data/processed/COV19/'
         # data_set = '/home/zh/codes/rnn_virus_source_code/data/processed/COV19/triplet_cluster'
 
