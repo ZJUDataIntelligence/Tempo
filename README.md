@@ -8,8 +8,9 @@ This is the Pytorch implementation of TEMPO in the paper: [TEMPO: A Transformer-
 
 ## Usage
 To run the code
-1. cd to *data* folder:
+1. download the data.zip **separately**， or [click here](https://github.com/ZJUDataIntelligence/Tempo/raw/main/data.zip).
+2. cd to *data* folder:
 `unzip data.zip`
-2. you may need to chage the dataset path defined in training.py(Corresponds to your *data* directory)
-3. cd to project root folder:
+3. you may need to chage the dataset path defined in training.py(Corresponds to your *data* directory)
+4. cd to project root folder:
 `python training.py`
