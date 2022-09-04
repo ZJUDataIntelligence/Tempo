@@ -1,6 +1,6 @@
 # Tempo
 
-This is the Pytorch implementation of TEMPO in the paper: [TEMPO: A Transformer-based Mutation Prediction Framework for SARS-CoV-2 Evolution] .
+This is the Pytorch implementation of TEMPO in the paper: [TEMPO: A Transformer-based Mutation Prediction Framework for SARS-CoV-2 Evolution] . The  phylogenetic tree data can be found at [here](https://ngdc.cncb.ac.cn/ncov/variation/tree) for reference.
 
 ## Requirements
 - pytorch
