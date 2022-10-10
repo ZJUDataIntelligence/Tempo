@@ -34,6 +34,25 @@ To run the code
 
 `python training.py > output.txt`
 
-
+## Output
+The results are output for every 10 epochs of the training process. The following metrics will be recorded in *output.txt* file：
+1. T_loss: training loss of this epoch
+2. T_acc: training accuracy of this epoch
+3. T_pre: training precision of this epoch
+4. T_rec: training recall of this epoch
+5. T_fscore: training f1 score of this epoch
+6. T_mcc: training matthews correlation coefficient of this epoch
+7. V_loss: validation loss of this epoch
+8. V_acc: validation accuracy of this epoch
+9. V_pre: validation precision of this epoch
+10. V_rec: validation recall of this epoch
+11. V_fscore: validation f1 score of this epoch
+12. V_mcc: validation matthews correlation coefficient of this epoch
+14. BEST_V_loss: best validation loss of all iterations so far
+15. BEST_V_acc: best validation accuracy of all iterations so far
+16. BEST_V_pre: best validation precision of all iterations so far
+17. BEST_V_rec: best validation recall of this all iterations so far
+18. BEST_V_fscore: best validation f1 score of all iterations so far
+19. BEST_V_mcc: best validation matthews correlation coefficient of all iterations so far
 
 
