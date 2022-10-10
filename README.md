@@ -8,7 +8,7 @@ This is the Pytorch implementation of TEMPO in the paper: [TEMPO: A Transformer-
 
 ## Data preparation
 
-# Protein sequence data:
+### Protein sequence data:
 
 This data file contains the original and preprossed protein sequence data for SARS-COV-2, H1N1, H3N2 and H5N1, which is necessary to run the code. Before running the code, data.zip shuold be downloaded **separately**， you can [click here](https://github.com/ZJUDataIntelligence/Tempo/raw/main/data.zip) to download the data for convenience.
 
@@ -17,7 +17,7 @@ The files contained in data.zip
 2. Phylogenetic tree data for SARS-COV-2, named as "tree.txt".
 3. COV-19 s-protein sequence data aligned by mafft, named as "spike_prot_processed.csv".
 
-# Phylogenetic tree data:
+### Phylogenetic tree data:
 This is a supplementary data which is not necessary to run the code, while it could be helpful for others to understand our paper in more depth and to do further work based on it. The  phylogenetic tree data for SARS-COV-2 can be found at [here](https://ngdc.cncb.ac.cn/ncov/variation/tree).
 
 
