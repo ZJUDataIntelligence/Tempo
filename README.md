@@ -24,7 +24,7 @@ This is a supplementary data which is not necessary to run the code, while it co
 
 ## Usage
 To run the code
-1. add the *"data.zip"* to the root directory of the project(at the same level as *"train.py"*)
+1. add the *"data.zip"* to the root directory of the project(at the same level as *"training.py"*)
 2. decompress the data and you will get a folder named *data*.
 
   `unzip data.zip`
