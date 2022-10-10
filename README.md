@@ -28,6 +28,7 @@ To run the code
 2. decompress the data and you will get a folder named *data*.
 
 `unzip data.zip`
+
 3. modify the dataset path defined in training.py(line 14 to line 31), corresponding to your *data* folder's path in your enviroment.
 4. train the model which the folllowing command:
 
